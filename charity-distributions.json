@@ -58,77 +58,77 @@
       "charity": "Al-Khair Foundation",
       "cc_number": "1126808",
       "url": "https://alkhair.org",
-      "icon": "https://www.google.com/s2/favicons?sz=128&domain=alkhair.org",
+      "icon": "",
       "amount": 11654
     },
     {
       "charity": "One Nation",
       "cc_number": "1156200",
       "url": "https://onenationuk.org",
-      "icon": "https://www.google.com/s2/favicons?sz=128&domain=onenationuk.org",
+      "icon": "https://jjoosub.github.io/eeis-charity-data/logos/one-nation.png",
       "amount": 7000
     },
     {
       "charity": "Ummah Welfare Trust",
       "cc_number": "1000851",
       "url": "https://uwt.org",
-      "icon": "https://www.google.com/s2/favicons?sz=128&domain=uwt.org",
+      "icon": "https://jjoosub.github.io/eeis-charity-data/logos/ummah-welfare-trust.png",
       "amount": 6000
     },
     {
       "charity": "Seven Spikes Relief",
       "cc_number": "1170486",
       "url": "https://sevenspikesrelief.org.uk",
-      "icon": "https://www.google.com/s2/favicons?sz=128&domain=sevenspikesrelief.org.uk",
+      "icon": "https://jjoosub.github.io/eeis-charity-data/logos/seven-spikes-relief.png",
       "amount": 2037
     },
     {
       "charity": "SKT Welfare",
       "cc_number": "1153735",
       "url": "https://sktwelfare.org",
-      "icon": "https://www.google.com/s2/favicons?sz=128&domain=sktwelfare.org",
+      "icon": "https://jjoosub.github.io/eeis-charity-data/logos/skt-welfare.png",
       "amount": 2000
     },
     {
       "charity": "Islamic Relief",
       "cc_number": "328158",
       "url": "https://www.islamic-relief.org.uk",
-      "icon": "https://www.google.com/s2/favicons?sz=128&domain=islamic-relief.org.uk",
+      "icon": "https://jjoosub.github.io/eeis-charity-data/logos/islamic-relief.png",
       "amount": 2000
     },
     {
       "charity": "Shahbagh Jamea Madania",
       "cc_number": "1126168",
       "url": "https://shahbagjamia.net",
-      "icon": "https://www.google.com/s2/favicons?sz=128&domain=shahbagjamia.net",
+      "icon": "https://jjoosub.github.io/eeis-charity-data/logos/shahbagh-jamea-madania.png",
       "amount": 1000
     },
     {
       "charity": "JustGiving (Shaukat Khanum / Imran Khan Cancer Appeal)",
       "cc_number": "1000585",
       "url": "https://www.ikca.org.uk",
-      "icon": "https://www.google.com/s2/favicons?sz=128&domain=ikca.org.uk",
+      "icon": "https://jjoosub.github.io/eeis-charity-data/logos/ikca.png",
       "amount": 1000
     },
     {
       "charity": "Al-Insaan Foundation",
       "cc_number": "1188617",
-      "url": "https://alinsaan.org",
-      "icon": "https://www.google.com/s2/favicons?sz=128&domain=alinsaan.org",
+      "url": "https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/5143750",
+      "icon": "",
       "amount": 500
     },
     {
       "charity": "Madinatul Khairi",
       "cc_number": "1117348",
-      "url": "https://madinatulkhairi.org.uk",
-      "icon": "https://www.google.com/s2/favicons?sz=128&domain=madinatulkhairi.org.uk",
+      "url": "https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/4027934",
+      "icon": "",
       "amount": 500
     },
     {
       "charity": "Peace Builder (JIHQ)",
       "cc_number": "1166372",
-      "url": "https://peacebuilder.org.uk",
-      "icon": "https://www.google.com/s2/favicons?sz=128&domain=peacebuilder.org.uk",
+      "url": "https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/5068323",
+      "icon": "",
       "amount": 500
     }
   ],
@@ -182,7 +182,7 @@
       "source_ref": "Barclays 8901 debit 23/02/2026, reason: relief aid to people",
       "url": "https://onenationuk.org",
       "flag_icon": "https://flagcdn.com/ps.svg",
-      "charity_icon": "https://www.google.com/s2/favicons?sz=128&domain=onenationuk.org"
+      "charity_icon": "https://jjoosub.github.io/eeis-charity-data/logos/one-nation.png"
     },
     {
       "id": "2026-02-23_one-nation_1500_2",
@@ -199,7 +199,7 @@
       "source_ref": "Barclays 8901 debit 23/02/2026, reason: relief aid to people",
       "url": "https://onenationuk.org",
       "flag_icon": "https://flagcdn.com/sd.svg",
-      "charity_icon": "https://www.google.com/s2/favicons?sz=128&domain=onenationuk.org"
+      "charity_icon": "https://jjoosub.github.io/eeis-charity-data/logos/one-nation.png"
     },
     {
       "id": "2026-02-23_skt-welfare_2000_3",
@@ -216,7 +216,7 @@
       "source_ref": "Barclays 8901 debit 23/02/2026, reason: food aid",
       "url": "https://sktwelfare.org",
       "flag_icon": "https://flagcdn.com/sy.svg",
-      "charity_icon": "https://www.google.com/s2/favicons?sz=128&domain=sktwelfare.org"
+      "charity_icon": "https://jjoosub.github.io/eeis-charity-data/logos/skt-welfare.png"
     },
     {
       "id": "2026-02-23_ummah-welfare-trust_1500_4",
@@ -233,7 +233,7 @@
       "source_ref": "Barclays 8901 debit 23/02/2026, reason: relief aid",
       "url": "https://uwt.org",
       "flag_icon": "https://flagcdn.com/ye.svg",
-      "charity_icon": "https://www.google.com/s2/favicons?sz=128&domain=uwt.org"
+      "charity_icon": "https://jjoosub.github.io/eeis-charity-data/logos/ummah-welfare-trust.png"
     },
     {
       "id": "2026-02-23_al-khair-foundation_2000_5",
@@ -250,7 +250,7 @@
       "source_ref": "Barclays 8901 debit 23/02/2026, reason: relief aid",
       "url": "https://alkhair.org",
       "flag_icon": "https://flagcdn.com/mm.svg",
-      "charity_icon": "https://www.google.com/s2/favicons?sz=128&domain=alkhair.org"
+      "charity_icon": ""
     },
     {
       "id": "2026-03-09_al-khair-foundation_551_6",
@@ -267,7 +267,7 @@
       "source_ref": "Barclays 8901 debit 09/03/2026, reason: Fitrana",
       "url": "https://alkhair.org",
       "flag_icon": "https://flagcdn.com/ps.svg",
-      "charity_icon": "https://www.google.com/s2/favicons?sz=128&domain=alkhair.org"
+      "charity_icon": ""
     },
     {
       "id": "2026-03-09_al-khair-foundation_551_7",
@@ -284,7 +284,7 @@
       "source_ref": "Barclays 8901 debit 09/03/2026, reason: Fitrana",
       "url": "https://alkhair.org",
       "flag_icon": "https://flagcdn.com/sd.svg",
-      "charity_icon": "https://www.google.com/s2/favicons?sz=128&domain=alkhair.org"
+      "charity_icon": ""
     },
     {
       "id": "2026-03-09_al-khair-foundation_551_8",
@@ -301,7 +301,7 @@
       "source_ref": "Barclays 8901 debit 09/03/2026, reason: Fitrana",
       "url": "https://alkhair.org",
       "flag_icon": "https://flagcdn.com/ye.svg",
-      "charity_icon": "https://www.google.com/s2/favicons?sz=128&domain=alkhair.org"
+      "charity_icon": ""
     },
     {
       "id": "2026-03-19_al-khair-foundation_1500_9",
@@ -318,7 +318,7 @@
       "source_ref": "Barclays 8901 debit 19/03/2026, reason: relief aid",
       "url": "https://alkhair.org",
       "flag_icon": "https://flagcdn.com/mm.svg",
-      "charity_icon": "https://www.google.com/s2/favicons?sz=128&domain=alkhair.org"
+      "charity_icon": ""
     },
     {
       "id": "2026-03-19_al-khair-foundation_500_10",
@@ -335,7 +335,7 @@
       "source_ref": "Barclays 8901 debit 19/03/2026, reason: relief aid",
       "url": "https://alkhair.org",
       "flag_icon": "https://flagcdn.com/ps.svg",
-      "charity_icon": "https://www.google.com/s2/favicons?sz=128&domain=alkhair.org"
+      "charity_icon": ""
     },
     {
       "id": "2026-03-19_al-khair-foundation_1000_11",
@@ -352,7 +352,7 @@
       "source_ref": "Barclays 8901 debit 19/03/2026, reason: relief aid",
       "url": "https://alkhair.org",
       "flag_icon": "https://flagcdn.com/sd.svg",
-      "charity_icon": "https://www.google.com/s2/favicons?sz=128&domain=alkhair.org"
+      "charity_icon": ""
     },
     {
       "id": "2026-03-19_al-khair-foundation_1000_12",
@@ -369,7 +369,7 @@
       "source_ref": "Barclays 8901 debit 19/03/2026, reason: relief aid",
       "url": "https://alkhair.org",
       "flag_icon": "https://flagcdn.com/ye.svg",
-      "charity_icon": "https://www.google.com/s2/favicons?sz=128&domain=alkhair.org"
+      "charity_icon": ""
     },
     {
       "id": "2026-03-19_seven-spikes-relief_1500_13",
@@ -386,7 +386,7 @@
       "source_ref": "Barclays 8901 debit 19/03/2026, reason: Fitrana",
       "url": "https://sevenspikesrelief.org.uk",
       "flag_icon": "https://flagcdn.com/ps.svg",
-      "charity_icon": "https://www.google.com/s2/favicons?sz=128&domain=sevenspikesrelief.org.uk"
+      "charity_icon": "https://jjoosub.github.io/eeis-charity-data/logos/seven-spikes-relief.png"
     },
     {
       "id": "2026-03-19_ummah-welfare-trust_500_14",
@@ -403,7 +403,7 @@
       "source_ref": "Barclays 8901 debit 19/03/2026, reason: aid",
       "url": "https://uwt.org",
       "flag_icon": "https://flagcdn.com/af.svg",
-      "charity_icon": "https://www.google.com/s2/favicons?sz=128&domain=uwt.org"
+      "charity_icon": "https://jjoosub.github.io/eeis-charity-data/logos/ummah-welfare-trust.png"
     },
     {
       "id": "2026-03-19_ummah-welfare-trust_500_15",
@@ -420,7 +420,7 @@
       "source_ref": "Barclays 8901 debit 19/03/2026, reason: aid",
       "url": "https://uwt.org",
       "flag_icon": "https://flagcdn.com/sy.svg",
-      "charity_icon": "https://www.google.com/s2/favicons?sz=128&domain=uwt.org"
+      "charity_icon": "https://jjoosub.github.io/eeis-charity-data/logos/ummah-welfare-trust.png"
     },
     {
       "id": "2026-03-31_al-khair-foundation_1000_16",
@@ -437,7 +437,7 @@
       "source_ref": "Barclays 8901 debit 31/03/2026, reason: Fitrana",
       "url": "https://alkhair.org",
       "flag_icon": "https://flagcdn.com/ps.svg",
-      "charity_icon": "https://www.google.com/s2/favicons?sz=128&domain=alkhair.org"
+      "charity_icon": ""
     },
     {
       "id": "2026-03-31_al-khair-foundation_1001_17",
@@ -454,7 +454,7 @@
       "source_ref": "Barclays 8901 debit 31/03/2026, reason: Fitrana",
       "url": "https://alkhair.org",
       "flag_icon": "https://flagcdn.com/sy.svg",
-      "charity_icon": "https://www.google.com/s2/favicons?sz=128&domain=alkhair.org"
+      "charity_icon": ""
     },
     {
       "id": "2026-03-31_al-insaan-foundation_500_18",
@@ -469,9 +469,9 @@
       "amount": 500,
       "status": "confirmed",
       "source_ref": "Barclays 8901 debit 31/03/2026, reason: Fitrana",
-      "url": "https://alinsaan.org",
+      "url": "https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/5143750",
       "flag_icon": "https://flagcdn.com/bd.svg",
-      "charity_icon": "https://www.google.com/s2/favicons?sz=128&domain=alinsaan.org"
+      "charity_icon": ""
     },
     {
       "id": "2026-03-31_madinatul-khairi_500_19",
@@ -486,9 +486,9 @@
       "amount": 500,
       "status": "confirmed",
       "source_ref": "Barclays 8901 debit 31/03/2026, reason: Fitrana",
-      "url": "https://madinatulkhairi.org.uk",
+      "url": "https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/4027934",
       "flag_icon": "https://flagcdn.com/bd.svg",
-      "charity_icon": "https://www.google.com/s2/favicons?sz=128&domain=madinatulkhairi.org.uk"
+      "charity_icon": ""
     },
     {
       "id": "2026-03-31_shahbagh-jamea-madania_1000_20",
@@ -505,7 +505,7 @@
       "source_ref": "Barclays 8901 debit 31/03/2026, reason: Fitrana (check it went to students in need",
       "url": "https://shahbagjamia.net",
       "flag_icon": "https://flagcdn.com/bd.svg",
-      "charity_icon": "https://www.google.com/s2/favicons?sz=128&domain=shahbagjamia.net"
+      "charity_icon": "https://jjoosub.github.io/eeis-charity-data/logos/shahbagh-jamea-madania.png"
     },
     {
       "id": "2026-04-01_seven-spikes-relief_537_21",
@@ -522,7 +522,7 @@
       "source_ref": "Barclays 8901 debit 01/04/2026, reason: Fitrana",
       "url": "https://sevenspikesrelief.org.uk",
       "flag_icon": "https://flagcdn.com/ye.svg",
-      "charity_icon": "https://www.google.com/s2/favicons?sz=128&domain=sevenspikesrelief.org.uk"
+      "charity_icon": "https://jjoosub.github.io/eeis-charity-data/logos/seven-spikes-relief.png"
     },
     {
       "id": "2026-06-08_al-khair-foundation_2000_22",
@@ -539,7 +539,7 @@
       "source_ref": "Barclays 8901 debit 08/06/2026, reason: relief aid",
       "url": "https://alkhair.org",
       "flag_icon": "https://flagcdn.com/mm.svg",
-      "charity_icon": "https://www.google.com/s2/favicons?sz=128&domain=alkhair.org"
+      "charity_icon": ""
     },
     {
       "id": "2026-06-08_islamic-relief_1000_23",
@@ -556,7 +556,7 @@
       "source_ref": "Barclays 8901 debit 08/06/2026, reason: relief aid",
       "url": "https://www.islamic-relief.org.uk",
       "flag_icon": "https://flagcdn.com/sy.svg",
-      "charity_icon": "https://www.google.com/s2/favicons?sz=128&domain=islamic-relief.org.uk"
+      "charity_icon": "https://jjoosub.github.io/eeis-charity-data/logos/islamic-relief.png"
     },
     {
       "id": "2026-06-08_islamic-relief_1000_24",
@@ -573,7 +573,7 @@
       "source_ref": "Barclays 8901 debit 08/06/2026, reason: relief aid",
       "url": "https://www.islamic-relief.org.uk",
       "flag_icon": "https://flagcdn.com/ye.svg",
-      "charity_icon": "https://www.google.com/s2/favicons?sz=128&domain=islamic-relief.org.uk"
+      "charity_icon": "https://jjoosub.github.io/eeis-charity-data/logos/islamic-relief.png"
     },
     {
       "id": "2026-07-14_justgiving-shaukat-khanum-imran-khan-cancer-appeal_1000_25",
@@ -590,7 +590,7 @@
       "source_ref": "Barclays 8901 debit 14/07/2026, reason: general hospital fundraising page",
       "url": "https://www.ikca.org.uk",
       "flag_icon": "https://flagcdn.com/pk.svg",
-      "charity_icon": "https://www.google.com/s2/favicons?sz=128&domain=ikca.org.uk"
+      "charity_icon": "https://jjoosub.github.io/eeis-charity-data/logos/ikca.png"
     },
     {
       "id": "2026-11-12_ummah-welfare-trust_3500_26",
@@ -607,7 +607,7 @@
       "source_ref": "Barclays 8901 debit 12/11/2026, reason: aid to displaced families",
       "url": "https://uwt.org",
       "flag_icon": "https://flagcdn.com/ps.svg",
-      "charity_icon": "https://www.google.com/s2/favicons?sz=128&domain=uwt.org"
+      "charity_icon": "https://jjoosub.github.io/eeis-charity-data/logos/ummah-welfare-trust.png"
     },
     {
       "id": "2026-11-12_one-nation_3500_27",
@@ -624,7 +624,7 @@
       "source_ref": "Barclays 8901 debit 12/11/2026, reason: aid to displaced families",
       "url": "https://onenationuk.org",
       "flag_icon": "https://flagcdn.com/ps.svg",
-      "charity_icon": "https://www.google.com/s2/favicons?sz=128&domain=onenationuk.org"
+      "charity_icon": "https://jjoosub.github.io/eeis-charity-data/logos/one-nation.png"
     },
     {
       "id": "2026-11-12_peace-builder-jihq_500_28",
@@ -639,9 +639,9 @@
       "amount": 500,
       "status": "confirmed",
       "source_ref": "Barclays 8901 debit 12/11/2026, reason: building project",
-      "url": "https://peacebuilder.org.uk",
+      "url": "https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/5068323",
       "flag_icon": "https://flagcdn.com/bd.svg",
-      "charity_icon": "https://www.google.com/s2/favicons?sz=128&domain=peacebuilder.org.uk"
+      "charity_icon": ""
     }
   ]
 }
